@@ -31,7 +31,7 @@ export default class Command extends BaseCommand {
         let beckylynch = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url:beckylynch }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `Join my Guild Fairy Tail 🔥 \n` }
+            caption: `Join my Guild Fairy Tail 🔥 check your DM \n` }
         )
 
         }
