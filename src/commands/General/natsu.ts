@@ -29,7 +29,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `🔥 *𝐍𝐀𝐓𝐒𝐔* 🔥\n\n🔥 *Description: 𝐈 𝐖𝐈𝐋𝐋 𝐀𝐋𝐖𝐀𝐘𝐒 𝐁𝐄 𝐓𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔💙 𝐸𝓇𝓏𝒶 𝒮𝒸𝒶𝓇𝓁𝑒𝓉💖💖.*\n\n🐲 *insta : https://www.instagram.com/akuma__24/?hl=en* \n`,
+				caption: `🔥 *𝐍𝐀𝐓𝐒𝐔* 🔥\n\n🔥 *Description: 𝐈 𝐖𝐈𝐋𝐋 𝐀𝐋𝐖𝐀𝐘𝐒 𝐁𝐄 𝐓𝐇𝐄𝐑𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔💙 𝓔𝓡𝓩𝓐 𝓢𝓒𝓐𝓡𝓛𝓔𝓣💖💖.*\n\n🐲 *insta : https://www.instagram.com/akuma__24/?hl=en* \n`,
 			}
 		);
 	};
