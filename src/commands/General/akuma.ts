@@ -26,6 +26,7 @@ export default class Command extends BaseCommand {
             
 🍀𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩;
 Wa.me/+917892202052
+
 🍀𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤;
 https://facebook.com/groups/600441174428472/
  
