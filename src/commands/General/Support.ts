@@ -21,7 +21,7 @@ export default class Command extends BaseCommand {
         M.sender.jid,
         `    🔥𝐅𝐀𝐈𝐑𝐘 𝐓𝐀𝐈𝐋🔥
         
-       *🔥𝐌𝐲 𝐆𝐮𝐢𝐥𝐝:🔥* *https://chat.whatsapp.com/EAjN9UVOurJ9cjlaVmSCj5:*
+       *🔥𝐌𝐲 𝐆𝐮𝐢𝐥𝐝:🔥* *https://chat.whatsapp.com/EeIT4nf7PBUD8Kwbm4FgJC:*
         *🔥𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐲 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 🔥:*https://www.instagram.com/akuma__24/?hl=en*`,
            MessageType.text
         ))
