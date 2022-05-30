@@ -21,7 +21,7 @@ export default class Command extends BaseCommand {
         M.sender.jid,
                 `*🔥Casino Group🔥*\n\n
                  *𝐍𝐀𝐓𝐒𝐔🔥: Fun Group:https://chat.whatsapp.com/EeIT4nf7PBUD8Kwbm4FgJC\n\n
-                 *𝐍𝐀𝐓𝐒𝐔🔥 Gambling: 𝗖𝗮𝘀𝗶𝗻𝗼 *:https://chat.whatsapp.com/EeIT4nf7PBUD8Kwbm4FgJC/n `,
+                 *𝐍𝐀𝐓𝐒𝐔🔥 Gambling: 𝗖𝗮𝘀𝗶𝗻𝗼 *:https://chat.whatsapp.com/EeIT4nf7PBUD8Kwbm4FgJC `,
            MessageType.text
         ))
         const n = [
